@@ -44,29 +44,18 @@ Skills
 
 My GitHub Stats
 --------------------------
-<table style="border: none"><tr style="border: none"><td style="border: none" valign="top" width="30%">
+<table style="border: none"><tr style="border: none"><td style="border: none" valign="center" width="30%">
 <div align="center">  
   </a>
       <a href="https://github.com/rancerenly" align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rancerenly&theme=github_dark" alt="stats" /> </a>
 </div>
 
-</td><td style="border: none" valign="top" width="70%">
+</td><td style="border: none" valign="center" width="70%">
   <div align="center">  
   <a href="https://github.com/rancerenly" align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rancerenly&theme=github_dark" alt="stats" />
 </div>
 
 </td>
 </table>
-
-
- <p align="center">
-  <table>
-    
-  </table>  
-
-
-  
-  </p>
-
 
 
