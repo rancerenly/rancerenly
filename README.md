@@ -8,6 +8,11 @@ I'm an Angular Frontend Developer
 - 💬 &nbsp;Ask me about anything related to TypeScript/C# or Angular/NestJS/ASP.NET Core MVC
 - ⚡ &nbsp;Fun fact: I like Playstation Gaming
 
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 Skills
 --------------------------
 <p align="left">
@@ -38,13 +43,16 @@ Skills
 </a>
 <a href="https://github.com/rancerenly" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+</a>
+  <a href="https://github.com/rancerenly" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
 </div>  
 
 
 My GitHub Stats
 --------------------------
-<table style="border: none"><tr style="border: none"><td style="border: none" valign="center" width="30%">
+<table style="border: none;"><tr style="border: none"><td style="border: none" valign="center" width="30%">
 <div align="center">  
   </a>
       <a href="https://github.com/rancerenly" align="left"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rancerenly&theme=github_dark" alt="stats" /> </a>
