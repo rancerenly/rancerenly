@@ -1,6 +1,6 @@
 # Hi! My name is Lesya Bondarenko
 
-Angular Frontend Developer 👩🏼‍💻
+Frontend Developer 👩🏼‍💻
 --------------------------
 
 - 🔭 &nbsp;I’m currently working on something cool in great company
