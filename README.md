@@ -2,12 +2,7 @@
 
 Frontend Developer 👩🏼‍💻
 --------------------------
-
-- 🔭 &nbsp;I’m currently working on something cool in great company
-- 🌱 &nbsp;I’m currently learning NGRX
-- 💬 &nbsp;Ask me about anything related to TypeScript/C# or Angular/NestJS/ASP.NET Core MVC
-- ⚡ &nbsp;Fun fact: I like Playstation Gaming
-- 🎓 &nbsp;Bachelor's degree in Information Systems and Technologies, SibFU, ISIT
+🎓 &nbsp;Bachelor's degree in Information Systems and Technologies, SibFU, ISIT
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
